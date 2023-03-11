@@ -12,4 +12,4 @@ Esse Projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout 
 
-Você pode visualizar o layout do projeto através <a href=''>DESSE LINK</a>.
+Você pode visualizar o layout do projeto através <a href='https://fwalterdias.github.io/Dev-Links/'>DESSE LINK</a>.
